@@ -86,3 +86,7 @@ export default defineConfig({
   },
 })
 ```
+
+Resultado : 
+
+https://i.imgur.com/kVYyXHP.png
