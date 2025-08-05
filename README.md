@@ -1,6 +1,6 @@
 # LAE Cartórios - Frontend do Gerenciador de Contas
 
-          https://imgur.com/6rLPrbE
+       https://i.imgur.com/6rLPrbE.png
 
 Bem-vindo ao frontend do Desafio Técnico da LAE Cartórios. Esta é uma Single Page Application (SPA) desenvolvida em **React + Vite** para interagir com a API de extração de dados de contas.
 
